@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/microservices-demo/microservices-demo.github.io.git
+[submodule "microservice-testing"]
+	path = microservice-testing
+	url = https://github.com/agrassangel/microservice-testing.git
